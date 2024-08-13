@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# E-commerce Platform with Gemini API Support Bot
 
-## Getting Started
+This project is a Next.js-based landing page for an e-commerce platform that incorporates a customer support chatbot powered by the Gemini API.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The landing page showcases an e-commerce platform designed to help businesses set up online stores. It includes a support chatbot to assist visitors with inquiries.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Key Components
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Next.js Landing Page**: 
+   - Displays key features of the platform
+   - Shows customer testimonials
+   - Includes call-to-action buttons for sign-up
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Gemini API Support Chatbot**:
+   - Provides initial greeting and offers assistance
+   - Can answer questions about features, testimonials, and sign-up process
 
-## Learn More
+3. **Features Highlighted**:
+   - Online store builder
+   - Payment processing
+   - Analytics and reporting
+   - Marketing tools
 
-To learn more about Next.js, take a look at the following resources:
+## Technology Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Frontend: Next.js (React framework)
+- Backend: Next.js API routes
+- AI Integration: Gemini API for the support chatbot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- 
+## How To Run It
 
-## Deploy on Vercel
+- cd into the directory
+- npm install
+- npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
